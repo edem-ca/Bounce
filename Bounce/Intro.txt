@@ -1,0 +1,14 @@
+WELCOME TO BOUNCE!
+
+Controls:
+-Press the Up Key To jump
+-Press the Down Key to drop with super speed and hit enemies with some extra oomph!
+-Press Left and Right...to move left and right
+
+Objectives/Rules:
+-Bounce all the Trouncermen out of the club!!! This club be fancy doe - there's multiple levels
+-You have to jump into or onto enemies to kill them - just walking into them will gurt you!
+-Colored enemies have extra health or more power - Beware!
+-You can take 3 hits
+-Press "B" to begin!
+
